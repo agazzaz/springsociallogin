@@ -1,0 +1,14 @@
+com\login\config\google\GoogleAutoConfiguration.class
+com\login\identifier\SessionIdentifier$1.class
+com\login\model\UserBean.class
+com\login\config\google\GoogleAutoConfiguration$GoogleConfigurerAdapter.class
+com\login\config\google\GoogleProperties.class
+com\login\controller\ChangeDefaultFlowController.class
+com\login\social\providers\FacebookProvider.class
+com\login\social\providers\GoogleProvider.class
+com\login\controller\LoginController.class
+com\login\identifier\SessionIdentifier.class
+com\login\social\providers\BaseProvider.class
+com\login\social\providers\LinkedInProvider.class
+com\login\identifier\SessionIdentifier$SessionIdUserIdSource.class
+com\login\SpringLoginApplication.class
