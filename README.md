@@ -9,4 +9,4 @@ How to run:
 4. Run the project.
 5. Access the application on http://localhost:3000/login
 
-Blogpost: 
+Blogpost: https://springsociallogin.blogspot.com/2019/05/authorizing-user-using-spring-social.html
